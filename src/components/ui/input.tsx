@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-empty-interface */
 import { cn } from "@/lib/utils"
 import * as React from "react"
 
